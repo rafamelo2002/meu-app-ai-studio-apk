@@ -1,0 +1,18 @@
+{
+  "packageId": "com.aistudio.meuapp",
+  "host": "ais-pre-lx5w2bpcn6mo4pagrrd5bd-589460615465.us-east1.run.app",
+  "name": "Meu App AI Studio",
+  "launcherName": "Meu App AI S",
+  "display": "fullscreen",
+  "themeColor": "#10b981",
+  "navigationColor": "#10b981",
+  "backgroundColor": "#0f172a",
+  "enableNotifications": true,
+  "startUrl": "/",
+  "iconUrl": "/icon-512.png",
+  "maskableIconUrl": "/icon-512.png",
+  "appVersionName": "1.0.0",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "Studio2APK"
+}
